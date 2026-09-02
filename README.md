@@ -11,3 +11,5 @@
 
 ```bash
 pip install pymatgen ase mp-api mendeleev pandas torch scikit-learn matplotlib
+
+Для работы с Materials Project API требуется API-ключ. Вставьте его в переменную API_KEY.
