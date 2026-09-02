@@ -9,21 +9,10 @@
 - **Часть 2: Полносвязная сеть** – создание и обучение `LinearNet` на синтетических данных.
 - **Часть 3: Сверточная сеть (CNN)** – обучение `SimpleCNN` на MNIST, точность ~98.6%.
 - **Загрузка данных** – использование `DataLoader` для работы с датасетами.
-- **Сохранение моделей** – 3 способа: вся модель, state_dict, checkpoint.
-- **Предобученные модели** – пример использования ResNet18 для CIFAR-10.
-
-## Установка и запуск
-
-```bash
-# Клонировать репозиторий
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+- 
 
 # Установить зависимости
 pip install torch torchvision matplotlib scikit-learn tqdm
-
-# Запустить Jupyter Notebook
-jupyter notebook M3_Introduction_to_Neural_Networks_Practice.ipynb
 
 
 # CGCNN для предсказания свойств материалов
