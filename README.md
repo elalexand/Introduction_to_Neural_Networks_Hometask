@@ -9,10 +9,6 @@
 - **Часть 2: Полносвязная сеть** – создание и обучение `LinearNet` на синтетических данных.
 - **Часть 3: Сверточная сеть (CNN)** – обучение `SimpleCNN` на MNIST, точность ~98.6%.
 
-# Установить зависимости
-pip install torch torchvision matplotlib scikit-learn tqdm
-
-
 # CGCNN для предсказания свойств материалов
 
 Реализация Crystal Graph Convolutional Neural Networks (CGCNN) на основе работы Tian Xie и Jeffrey C. Grossman.
